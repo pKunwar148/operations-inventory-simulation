@@ -1,0 +1,5 @@
+Scenario,Customer Service Workers,Food Preparation Workers,Avg Daily Profit ($),Avg Order-to-Delivery (min),Avg Time in System (min),Balked Customers,Reneged Customers,Switched Orders
+Recommended flexible policy,2,4,1663.24,5.92,14.23,55.65,10.15,229.25
+Lower food-prep capacity,2,3,1377.74,8.18,17.51,108.1,20.1,182.2
+Extra food-prep support,2,5,1448.89,5.11,13.0,45.65,9.9,235.2
+Extra order-window capacity,3,4,1366.27,6.11,14.46,65.2,7.3,227.35
